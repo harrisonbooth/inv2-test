@@ -1,1 +1,2 @@
-const getAge = (person) => person.age
+const getName = (person) => person.name;
+const getAge = (person) => person.age;
